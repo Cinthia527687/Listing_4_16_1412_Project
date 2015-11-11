@@ -69,7 +69,7 @@ The random upper case letter is: O
 ```
 ## Command Prompt History
 
-#### Navigate to the project file in your workspace.
+###### Navigate to the project file in your workspace.
 
 
 ```
@@ -98,7 +98,7 @@ F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>dir
                4 Dir(s)   7,110,557,696 bytes free
 ```
 
-2. I echo a README file.
+######## I echo a README file.
 
 
 ```
