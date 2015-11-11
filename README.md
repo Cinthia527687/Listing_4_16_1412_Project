@@ -98,7 +98,7 @@ F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>dir
                4 Dir(s)   7,110,557,696 bytes free
 ```
 
-######## I echo a README file.
+###### I echo a README file.
 
 
 ```
@@ -113,7 +113,7 @@ F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>git add R
 EADME.md
 ```
 
-3. I recommit a first commit after previous failed attempts.
+###### I recommit a first commit after previous failed attempts.
 
 
 ```
@@ -128,7 +128,7 @@ e add origin https://github.com/Cinthia527687/Listing_4_16_Project_1412.git
 fatal: remote origin already exists.
 ```
 
-4. This failed because I forgot to add my changes first.
+###### This failed because I forgot to add my changes first.
 
 
 ```
@@ -163,7 +163,7 @@ See 'git help config' and search for 'push.default' for further information.
 'current' instead of 'simple' if you sometimes use older versions of Git)
 ```
 
-5. I sign into my github account. This allowed me to set the upstream to track the local repository.
+###### I sign into my github account. This allowed me to set the upstream to track the local repository.
 
 
 ```
@@ -178,7 +178,7 @@ To https://github.com/Cinthia527687/Listing_4_16_Project_1412.git
  * [new branch]      master -> master
 ```
 
-6. I created a dev branch and push my changes to github.
+###### I created a dev branch and push my changes to github.
 
 
 ```
@@ -223,7 +223,7 @@ To push the current branch and set the remote as upstream, use
     git push --set-upstream origin dev
 ```
 
-7. It stopped because I needed to add a dev branch on my remote repository.
+###### It stopped because I needed to add a dev branch on my remote repository.
 
 
 ```
@@ -241,7 +241,7 @@ To https://github.com/Cinthia527687/Listing_4_16_Project_1412.git
 Branch dev set up to track remote branch dev from origin.
 ```
 
-8. Now we can push our local dev branch to our remote dev branch.
+###### Now we can push our local dev branch to our remote dev branch.
 
 
 ```
@@ -276,7 +276,7 @@ See 'git help config' and search for 'push.default' for further information.
 'current' instead of 'simple' if you sometimes use older versions of Git)
 ```
 
-9. It askes me verify who I am once again.
+###### It askes me verify who I am once again.
 
 
 ```
@@ -291,7 +291,7 @@ To https://github.com/Cinthia527687/Listing_4_16_Project_1412.git
    f654cb8..7a5b255  dev -> dev
 ```
 
-10. I merge my dev branch to my master branch on the local repository.
+###### I merge my dev branch to my master branch on the local repository.
 
 
 ```
@@ -310,7 +310,8 @@ Fast-forward
  3 files changed, 88 insertions(+), 4 deletions(-)
 ```
 
-11. Checking my status.
+###### Checking my status.
+
 
 ```
 F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>git statu
@@ -321,7 +322,7 @@ Your branch is ahead of 'origin/master' by 2 commits.
 nothing to commit, working directory clean
 ```
 
-12. Now we push or local master branch to the remote master branch.
+###### Now we push or local master branch to the remote master branch.
 
 
 ```
