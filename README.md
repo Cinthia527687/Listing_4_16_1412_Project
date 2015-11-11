@@ -1,7 +1,7 @@
 # Listing_4_16_Project_1412 
 
 
-We are working on Listing 4.16.
+We are working on Listing 4.16
 
 ## Introduction:
 
@@ -46,8 +46,26 @@ public class HW_8_Markdown {
         return randomUpperCaseLetterNumber;
     }
 }
+
 ```
 
 ## Console Output
 
 I teste several cases to verify that my random number range would cover the range of all possible upper case letters.
+
+```
+82
+The random upper case letter of the day is: R
+
+85
+The random upper case letter is: U
+
+77
+The random upper case letter is: M
+
+79
+The random upper case letter is: O
+
+```
+## Command Prompt History
+
