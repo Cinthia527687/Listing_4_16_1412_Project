@@ -69,7 +69,7 @@ The random upper case letter is: O
 ```
 ## Command Prompt History
 
-<li>First</li> 1.Navigate to the project file in your workspace.
+#### Navigate to the project file in your workspace.
 
 
 ```
