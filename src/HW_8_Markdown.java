@@ -8,7 +8,7 @@ public class HW_8_Markdown {
     }
     public static int makeRandomUpperLetter(){
         // Range of Character values, page 125, table 4.4
-        //Characters ('A' to 'Z'), Code Value in Decimal (65 to 90)
+        // Characters ('A' to 'Z'), Code Value in Decimal (65 to 90)
 
         // How to use a random number Page 122, bottom of the page, 4.2.5 The random Method
         // Also use the example on page 87.
