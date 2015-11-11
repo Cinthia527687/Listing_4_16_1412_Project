@@ -69,7 +69,7 @@ The random upper case letter is: O
 ```
 ## Command Prompt History
 
-1.Navigate to the project file in your workspace.
+<li>First</li> 1.Navigate to the project file in your workspace.
 
 
 ```
@@ -163,7 +163,7 @@ See 'git help config' and search for 'push.default' for further information.
 'current' instead of 'simple' if you sometimes use older versions of Git)
 ```
 
-5. I sign into my github account.
+5. I sign into my github account. This allowed me to set the upstream to track the local repository.
 
 
 ```
