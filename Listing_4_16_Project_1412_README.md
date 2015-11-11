@@ -345,5 +345,5 @@ F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>
 I struggled a lot to get my repository set up and tracking my local repository.
 Since markdown was new it was a bit of a challenge. After I got my repository working it was a lot easier from there.
 The countless mess-ups and redos were worth it in my opinion. Now I have a better idea of what to do for the next part of this assignment.
-It certainly will help furture assignments easier to do. The only thing that would be challenging is writing the code.
+It certainly will help make furture assignments easier to do. The only thing that would be challenging is writing the code.
 Although, I'm sure I can figure it all out.
