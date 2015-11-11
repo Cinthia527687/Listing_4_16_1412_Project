@@ -5,7 +5,7 @@ We are working on Listing 4.16
 
 ## Introduction:
 
-We want to write a prgram that displays a random uppercase letter using the Math.random() method.
+We want to write a program that displays a random uppercase letter using the Math.random() method.
 
 ## Outline
 
@@ -51,7 +51,7 @@ public class HW_8_Markdown {
 
 ## Console Output
 
-I teste several cases to verify that my random number range would cover the range of all possible upper case letters.
+I tested several cases to verify that my random number range would cover the range of all possible upper case letters.
 
 ```
 82
@@ -276,7 +276,7 @@ See 'git help config' and search for 'push.default' for further information.
 'current' instead of 'simple' if you sometimes use older versions of Git)
 ```
 
-###### It askes me verify who I am once again.
+###### It asked me to verify who I am once again.
 
 
 ```
@@ -322,7 +322,7 @@ Your branch is ahead of 'origin/master' by 2 commits.
 nothing to commit, working directory clean
 ```
 
-###### Now we push or local master branch to the remote master branch.
+###### Now we push our local master branch to the remote master branch.
 
 
 ```
