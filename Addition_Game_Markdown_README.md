@@ -419,7 +419,7 @@ See 'git help config' and search for 'push.default' for further information.
 'current' instead of 'simple' if you sometimes use older versions of Git)
 ```
 
-### This is where github askes me to verify my account.
+#### This is where GitHub askes me to verify my account.
 
 
 ```
@@ -481,7 +481,64 @@ To https://github.com/Cinthia527687/Listing_4_16_Project_1412.git
 F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>
 ```
 
-##### Added the Command Prompt and Summary.
+##### Checked my status then added the Command Prompt and Summary.
+
+
+```
+F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>git statu
+s
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   Addition_Game_Markdown_README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>git add .
+
+
+F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>git commi
+t -m "Adding command prompt and summary"
+[master 943643d] Adding command prompt and summary
+ 1 file changed, 199 insertions(+)
+
+F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>git push
+warning: push.default is unset; its implicit value has changed in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the traditional behavior, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+When push.default is set to 'matching', git will push local branches
+to the remote branches that already exist with the same name.
+
+Since Git 2.0, Git defaults to the more conservative 'simple'
+behavior, which only pushes the current branch to the corresponding
+remote branch that 'git pull' uses to update the current branch.
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Username for 'https://github.com': Cinthia527687
+Password for 'https://Cinthia527687@github.com':
+Counting objects: 3, done.
+Delta compression using up to 2 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 2.32 KiB | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+To https://github.com/Cinthia527687/Listing_4_16_Project_1412.git
+   9a1f7fb..943643d  master -> master
+
+F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>
+```
 
 ## Summary
 
