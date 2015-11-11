@@ -261,6 +261,30 @@ public class AdditionGame {
 
 ## Console Output
 
+```
+What number is 6 + 5?
+11
+Your answer was correct.
+Your score is now: 10
+End of first round.
+What number is 91+ 71?
+162
+Your answer was correct.
+Your score is now: 110
+End of second round.
+What number is 357 + 326?
+693
+Your answer was incorrect.
+The correct answer was: 683
+Your difficulty is now: 100
+End of third round.
+What number is 89 +74?
+163
+Your answer was correct.
+Your score is now: 210
+End of fourth round.
+Your final score is: 210
+```
 
 ## Command Prompt History
 
