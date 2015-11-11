@@ -419,7 +419,7 @@ See 'git help config' and search for 'push.default' for further information.
 'current' instead of 'simple' if you sometimes use older versions of Git)
 ```
 
-#### This is where GitHub askes me to verify my account.
+###### This is where GitHub asks me to verify my account.
 
 
 ```
@@ -481,7 +481,7 @@ To https://github.com/Cinthia527687/Listing_4_16_Project_1412.git
 F:\Computer Science I\Section 1412 Workspace\Listing_4_16_Project_1412>
 ```
 
-##### Checked my status then added the Command Prompt and Summary.
+###### Checked my status then added the Command Prompt and Summary.
 
 
 ```
